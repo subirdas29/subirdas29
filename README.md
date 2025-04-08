@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subirdas29&label=Profile%20views&color=0e75b6&style=flat" alt="subirdas29" /> </p>
 
-- 🌱 I’m currently learning **nextjs**
+- 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [https://subirdas-portfolio.netlify.app/](https://subirdas-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://subirdas-portfolio.vercel.app/](https://subirdas-portfolio.vercel.app/)
 
 - 💬 Ask me about **javascript,typescript,react,,nextjs,express,mongoose**
 
