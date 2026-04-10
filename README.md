@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [https://subirdas-portfolio.vercel.app/](https://subirdas-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [(https://subirdas.vercel.app/)]
 
 - 💬 Ask me about **javascript,typescript,react,,nextjs,express,mongoose**
 
